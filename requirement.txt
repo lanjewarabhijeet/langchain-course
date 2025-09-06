@@ -3,3 +3,8 @@ python-dotenv
 black
 isort
 langchain-ollama
+langchain_groq
+langchain_tavily
+langchain-tavily
+tavily-python
+langchain-community
