@@ -3,3 +3,4 @@ python-dotenv
 black
 isort
 langchain-ollama
+langchain_groq
